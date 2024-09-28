@@ -1,0 +1,2 @@
+### Security Principle: G5; Revision: ; Updated: ; Applicability: ALL; Essential Eight: N/A
+<p>Security risks are identified, documented, managed and accepted both before systems and applications are authorised for use, and continuously throughout their operational life.</p>

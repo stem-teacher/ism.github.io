@@ -1,0 +1,2 @@
+### Security Principle: R1; Revision: ; Updated: ; Applicability: ALL; Essential Eight: N/A
+<p>Cyber security incidents are reported both internally and externally to relevant bodies in a timely manner.</p>

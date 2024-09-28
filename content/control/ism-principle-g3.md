@@ -1,0 +1,2 @@
+### Security Principle: G3; Revision: ; Updated: ; Applicability: ALL; Essential Eight: N/A
+<p>The confidentiality, integrity and availability requirements for systems, applications and data are determined and documented.</p>

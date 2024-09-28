@@ -1,0 +1,2 @@
+### Security Principle: P9; Revision: ; Updated: ; Applicability: ALL; Essential Eight: N/A
+<p>Data, applications and configuration settings are backed up in a secure and proven manner on a regular basis.</p>

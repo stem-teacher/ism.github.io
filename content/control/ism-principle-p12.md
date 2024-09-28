@@ -1,0 +1,2 @@
+### Security Principle: P12; Revision: ; Updated: ; Applicability: ALL; Essential Eight: N/A
+<p>Multiple methods are used to identify and authenticate personnel to systems, applications and data repositories.</p>

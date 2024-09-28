@@ -1,0 +1,2 @@
+### Security Principle: P14; Revision: ; Updated: ; Applicability: ALL; Essential Eight: N/A
+<p>Physical access to systems, supporting infrastructure and facilities is restricted to authorised personnel.</p>
