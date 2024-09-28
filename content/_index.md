@@ -1,5 +1,5 @@
 ---
-title: "ACSC Information Security Manual (ISM)"
+title: "ACSC Information Security Manual"
 description: "ISM controls in a form suitable for trace"
 lead: "Web enabled ISM for automated security trace and validation."
 draft: false
@@ -7,7 +7,7 @@ images: []
 weight: 5
 toc: true
 ---
-## BLUF: ISM Controls for Automated Security Trace and Validation
+## ISM Controls for Automated Security Trace and Validation
 
 The following links provide the top-level [ISM](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/ism) control sets, which serve as input for automated security control allocation and automation.
 

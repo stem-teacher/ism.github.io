@@ -39,7 +39,7 @@ menu:
   main:
     - identifier: controls
       name: Controls
-      pageRef: /controls
+      pageRef: /control
       weight: 1
 
     - identifier: blog
