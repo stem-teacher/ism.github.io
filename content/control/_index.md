@@ -1,13 +1,12 @@
 ---
-title: "ISM Control Index"
-description: "Index of all ISM controls"
+title: "ISM Control Summary"
+description: "Summary of all ISM controls"
 lead: ""
 draft: false
 images: []
 weight: 5
 toc: true
 ---
-# ISM CONTROL INDEX
 |    ISM Control | Statement |
 | :-------------: | ----------- |
 | [ism-0027](/control/ism-0027) | <p>System owners obtain authorisation to operate each system from its authorising officer based on the acceptance of the security risks associated with its operation.</p> |

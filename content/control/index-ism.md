@@ -1,5 +1,5 @@
 ---
-title: "ISM Control Index"
+title: "ISM Index"
 description: "Index of all ISM controls"
 lead: ""
 draft: false
@@ -7,7 +7,6 @@ images: []
 weight: 5
 toc: true
 ---
-# ISM CONTROL INDEX
 |    ISM Control    |
 | :-------------: |
 | [ism-0027](/control/ism-0027) |

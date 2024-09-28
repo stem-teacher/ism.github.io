@@ -1,13 +1,12 @@
 ---
 title: "Using the Information Security Manual"
 description: "ISM with context"
-lead: "Web enabled ISM for automated security trace and validation."
+lead: "ISM for automated security trace and validation."
 draft: false
 images: []
 weight: 5
 toc: true
 ---
-# Using the Information Security Manual
 ## Executive summary
 ### Purpose
 ### Intended audience

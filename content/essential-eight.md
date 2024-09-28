@@ -1,16 +1,14 @@
 ---
-title: "ACSC Essential 8"
-description: "Essential 8 controls with context"
+title: "Essential 8 Security Controls"
+description: "ISM with context"
 lead: "Web enabled ISM for automated security trace and validation."
 draft: false
 images: []
 weight: 5
 toc: true
 ---
-# Component Description
-The following document is a selection of controls to support an organisation
+The following provides those controls required by an organisation
 to comply with the ACSC "Essential 8".
-
 
 # Guidelines for Cyber Security Incidents
 ## Managing cyber security incidents
